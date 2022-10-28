@@ -1,2 +1,1 @@
-# TwoSpansBeam_ConcForceOnFirstSpan
-2022 06 27_TwoSpanBeam_Graphic_ConcForce_FirstSpan
+Two spansBeam_Graphic_ConcForce_FirstSpan
