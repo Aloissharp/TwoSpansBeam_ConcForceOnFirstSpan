@@ -1,1 +1,1 @@
-Two spansBeam_Graphic_ConcForce_FirstSpan
+Two spans beam with concentrated load on the first span (SMath Studio with shear deflection taken into account).
